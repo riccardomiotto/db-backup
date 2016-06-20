@@ -1,6 +1,6 @@
 # DB-Backup
 
-Pair of shell scripts to dump and restore MySQL databases. 
+Shell scripts to dump and restore MySQL databases. 
 
 The database is dumped as a set of table gzipped files; see the comments in the code for more details.
 
